@@ -7,6 +7,7 @@ Web Developer
 React.js, Next.js
 
 * 🌍  I'm based in Thailand
+* ✉️  You can contact me at [yutthaphichaikk@gmail.com](mailto:yutthaphichaikk@gmail.com)
 * 🧠  I'm learning React Native, Node.js(Express)
 
 ### Skills
