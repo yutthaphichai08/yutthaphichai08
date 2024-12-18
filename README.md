@@ -8,7 +8,6 @@ React.js, Next.js
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [yutthaphichaikk@gmail.com](mailto:yutthaphichaikk@gmail.com)
-* 🚀  I'm currently working on [PokémonListApi](http://pokedex-api-nextjs.vercel.app)
 * 🧠  I'm learning React Native
 
 ### Skills
